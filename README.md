@@ -1,2 +1,2 @@
 # IngressPortalAppeals
-Tracker for Ingress Portal APpeals.
+Tracker for Ingress Portal Appeals.
